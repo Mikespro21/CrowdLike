@@ -1,0 +1,3 @@
+import arc
+
+arc.run()
